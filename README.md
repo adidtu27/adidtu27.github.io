@@ -1,8 +1,9 @@
 ## Hi! I am Aditya Singhal
-## Welcome to my website:)
+### 
 
 You can use the [editor on GitHub](https://github.com/adidtu27/adidtu27.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-EDUCATION
+#### EDUCATION
+     Delhi Technological University-B.Tech(Electrical & Electronics Engineering)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
