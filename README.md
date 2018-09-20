@@ -12,8 +12,8 @@ You can use the [editor on GitHub](https://github.com/adidtu27/adidtu27.github.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### iNTERNSHIP EXPERIENCE
-     Delhi Technological University, Delhi                                                                    March 2018-September 2018
+### INTERNSHIP EXPERIENCE
+     Delhi Technological University, Delhi                                                 March 2018-September 2018
      USIP Intern
           •Selected for University Student Internship Program-50 students campus-wide
           •Prepared an institutional repository using DSpace Digital Library Software.
