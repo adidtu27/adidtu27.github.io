@@ -4,6 +4,11 @@
 You can use the [editor on GitHub](https://github.com/adidtu27/adidtu27.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 #### EDUCATION
      Delhi Technological University-B.Tech(Electrical & Electronics Engineering)
+          CGPA 8.45
+     Delhi Public School-Class 12
+          94.8%
+     Delhi Public School-Class 10
+          CGPA 10
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
