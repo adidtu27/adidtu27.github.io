@@ -2,7 +2,7 @@
 ### 
 
 You can use the [editor on GitHub](https://github.com/adidtu27/adidtu27.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-#### EDUCATION
+### EDUCATION
      Delhi Technological University-B.Tech(Electrical & Electronics Engineering)
           CGPA 8.45
      Delhi Public School-Class 12
@@ -11,6 +11,12 @@ You can use the [editor on GitHub](https://github.com/adidtu27/adidtu27.github.i
           CGPA 10
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### iNTERNSHIP EXPERIENCE
+     Delhi Technological University, Delhi                                                                    March 2018-September 2018
+     USIP Intern
+          •Selected for University Student Internship Program-50 students campus-wide
+          •Prepared an institutional repository using DSpace Digital Library Software.
 
 ### Markdown
 
