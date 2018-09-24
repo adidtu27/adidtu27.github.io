@@ -7,7 +7,7 @@ You can use the [editor on GitHub](https://github.com/adidtu27/adidtu27.github.i
           CGPA 8.45
      Delhi Public School-Class 12                                                         2016
           94.8%
-     Delhi Public School-Class 10
+     Delhi Public School-Class 10                                                         2014
           CGPA 10
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
