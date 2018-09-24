@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/adidtu27/adidtu27.github.i
 ### EDUCATION
      Delhi Technological University-B.Tech(Electrical & Electronics Engineering)          2016-2020
           CGPA 8.45
-     Delhi Public School-Class 12
+     Delhi Public School-Class 12                                                         2016
           94.8%
      Delhi Public School-Class 10
           CGPA 10
