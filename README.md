@@ -18,7 +18,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
           •Selected for University Student Internship Program-50 students campus-wide
           •Prepared an institutional repository using DSpace Digital Library Software.
 ### RESEARCH EXPERIENCE
-     Undergraduate researcher with Dr. Dinesh K.
+     Undergraduate researcher with Dr. Dinesh K
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
