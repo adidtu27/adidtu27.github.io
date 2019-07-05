@@ -4,7 +4,7 @@
 You can use the [editor on GitHub](https://github.com/adidtu27/adidtu27.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 ### EDUCATION
      Delhi Technological University-B.Tech(Electrical & Electronics Engineering)          2016-2020
-          CGPA 8.45
+          CGPA 8.35
      Delhi Public School-Class 12                                                         2016
           94.8%
      Delhi Public School-Class 10                                                         2014
@@ -18,7 +18,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
           •Selected for University Student Internship Program-50 students campus-wide
           •Prepared an institutional repository using DSpace Digital Library Software.
 ### RESEARCH EXPERIENCE
-     Undergraduate researcher with Dr. Dinesh K
+     
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
