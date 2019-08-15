@@ -3,7 +3,7 @@
 
 You can use the [editor on GitHub](https://github.com/adidtu27/adidtu27.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 ### EDUCATION
-     Delhi Technological University-B.Tech(Electrical & Electronics Engineering)          2016-2020
+     Delhi Technological University-B.Tech(Electrical & Electronics Engineering)          2016 - 2020
           CGPA 8.35
      Delhi Public School-Class 12                                                         2016
           94.8%
